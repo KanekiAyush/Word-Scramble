@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Word Scrambel</string>
+    <string name="app_name">Word Scramble</string>
+    <string name="enter_guess">Enter your guess</string>
+    <string name="check">Check</string>
+    <string name="hint">Hint</string>
+    <string name="next">Next</string>
+    <string name="score_format">Score: %1$d / %2$d</string>
 </resources>
